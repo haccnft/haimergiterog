@@ -9,7 +9,7 @@
   },
   "NFT_NAME": "Hidden Allien Crypto Clubbb",
   "SYMBOL": "HACC",
-  "MAX_SUPPLY": 99999,
+  "MAX_SUPPLY": 9999,
   "WEI_COST": 100000000000000000,
   "DISPLAY_COST": 0.05,
   "GAS_LIMIT": 285000,
