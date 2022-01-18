@@ -1,19 +1,19 @@
 
 {
-  "CONTRACT_ADDRESS": "0x52B687083a25CbE8fEd22C61c559b093E2F9f1B5",
-  "SCAN_LINK": "https://polygonscan.com/address/0x52B687083a25CbE8fEd22C61c559b093E2F9f1B5",
+  "CONTRACT_ADDRESS": "0xA63eC06a2AE20B2F4D7Bf09f027035c31e8B690c",
+  "SCAN_LINK": "https://polygonscan.com/address/0xA63eC06a2AE20B2F4D7Bf09f027035c31e8B690c",
   "NETWORK": {
     "NAME": "Polygon Mainnet",
-    "SYMBOL": "Matic",
+    "SYMBOL": "MATIC",
     "ID": 137
   },
   "NFT_NAME": "Hidden Allien Crypto Clubbb",
   "SYMBOL": "HACC",
   "MAX_SUPPLY": 9999,
-  "WEI_COST": 100000000000000000,
+  "WEI_COST": 50000000000000000,
   "DISPLAY_COST": 0.05,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/testhacc123",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/hacctestfinal1",
   "SHOW_BACKGROUND": true
 }
