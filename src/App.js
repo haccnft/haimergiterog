@@ -1,4 +1,4 @@
-/* import React, { useEffect, useState, useRef } from "react";
+import React, { useEffect, useState, useRef } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import { connect } from "./redux/blockchain/blockchainActions";
 import { fetchData } from "./redux/data/dataActions";
@@ -435,4 +435,4 @@ function App() {
   );
 }
 
-export default App; */
+export default App;
